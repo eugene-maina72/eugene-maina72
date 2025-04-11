@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data science, Machine Learning and SQL
 - 💞️ I’m looking to collaborate on ... (I'm not picky)
 - 📫 How to reach me ... on x : (@eugenemaina17)
-- 😄 Pronouns: ... Being a Kenyan, I know the Swahili language has no pronouns. Only Animate and Inanimate.
+- 😄 Pronouns: ... Being a Kenyan, In the Swahili language has no pronouns. Only Animate and Inanimate.
 - ⚡ Fun fact: ... In my younger years, I was really into motorsports.Did Motocross and Autocross.I wasn't bad at it, too.
 
 <!---
